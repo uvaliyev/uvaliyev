@@ -1,10 +1,6 @@
-
-
-
 <!DOCTYPE html>
 <html>
-<head>
-    
+<head></head>
 </head>
 <body>
   
@@ -13,14 +9,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <!-- 
-  
-  Yo, if ya really wanna reach me:
-  
-  linkedin: https://www.linkedin.com/in/askarr
-  телега: @uvaliyev_a
-  inst is on the same tag
-  
-  Chao-chao ✋🏿✋🏿✋🏿✋🏿✋🏿✋🏿✋🏿
+  telegram: @uvaliyev_a
   -->
 
 </body>
